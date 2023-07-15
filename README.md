@@ -1,4 +1,4 @@
-# kaggle-titanic-challenge
+Kaggle_Titanic_Challenge
 
 _**The Challenge**_
 
